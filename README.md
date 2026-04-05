@@ -102,7 +102,7 @@ Tüm model katmanları açılır ve çok düşük bir learning rate (1e-5) ile e
 
 Bu proje aşağıdaki donanımlar üzerinde geliştirilmiştir:
 
----------------------------Fadime----------------------------------------------
+## 🖥️ Donanım (Fadime)
 | Bileşen | Detay |
 |---------|-------|
 | GPU | NVIDIA RTX 3050 4GB VRAM |
@@ -110,8 +110,7 @@ Bu proje aşağıdaki donanımlar üzerinde geliştirilmiştir:
 | Python | 3.10 |
 | PyTorch | 2.x |
 
--------------------------Serhan--------------------------------------------------
-## 🖥️ Donanım
+## 🖥️ Donanım (Serhan)
 
 | Bileşen        | Detay                                      |
 |----------------|--------------------------------------------|
